@@ -2,7 +2,7 @@
 
 Recriação do protótipo do Figma "Website of architects". A Home reúne todas as seções da landing page (Hero com carrossel, About, Mission Statement, Our Projects, Contact Us e Footer) e as demais rotas reaproveitam os mesmos componentes.
 
-##Integrantes
+## Integrantes
 - Ana Luiza Marchiori
 - Beatriz Gagliano Silva
 - Caroline Fantinate
